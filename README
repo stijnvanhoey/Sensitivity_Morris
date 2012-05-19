@@ -1,0 +1,9 @@
+
+author: Stijn Van Hoey
+
+
+Python implementation of the Morris screening method, 
+based on the JRC matlab implementation.
+The optimization of the selected trajects are included
+as proposed by Campognolo
+
